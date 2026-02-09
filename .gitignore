@@ -1,0 +1,14 @@
+# Python
+**/venv/
+
+# Node.js
+node_modules/
+
+# Build artifacts
+/dist/
+/build/
+
+# IDE files
+*.iml
+*.idea/
+*.vscode/
